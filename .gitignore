@@ -1,0 +1,7 @@
+.env
+
+*.ipynb
+*.db
+*.xlsx
+
+.vscode/
